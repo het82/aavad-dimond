@@ -1,6 +1,7 @@
 # aavad-dimond
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en
+">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -120,23 +121,6 @@
   <section id="contact" class="section">
     <h2>Contact Us</h2>
     <p>Email: info@aavaddiamond.com<br>Phone: +91-XXXXXXXXXX<br>Address: Surat, Gujarat, India</p>
-    <h3>How to View This Website on GitHub</h3>
-    <ol style="text-align:left; max-width:600px; margin:20px auto;">
-      <li>After you create your repository and upload the <code>index.html</code> file, go to the repository homepage.</li>
-      <li>Click the <strong>Settings</strong> tab.</li>
-      <li>Scroll down to the <strong>Pages</strong> section on the left menu.</li>
-      <li>Under "Deploy from a branch", choose:
-        <ul>
-          <li><strong>Branch</strong>: <code>main</code></li>
-          <li><strong>Folder</strong>: <code>/ (root)</code></li>
-        </ul>
-      </li>
-      <li>Click <strong>Save</strong>.</li>
-      <li>Wait 1–2 minutes. GitHub will give you a link at the top like:
-        <br><code>https://yourusername.github.io/aavad-diamond</code>
-      </li>
-      <li>Click the link to view your live website.</li>
-    </ol>
   </section>
 
   <footer>
